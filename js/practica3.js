@@ -1,0 +1,1 @@
+confirm("se va a salir, le dio miedo?");
